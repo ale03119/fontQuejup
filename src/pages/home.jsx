@@ -15,7 +15,7 @@ export const Bienvenida = () => {
             <NavBar2 />
             <div className='w-full h-16 bg-white'></div>
 
-            <div className='flex h-screen w-full'>
+            <div className='flex h-screen  w-full'>
                 <div className='m-auto text-center'>
                     <h1 className='text-6xl font-bold mb-4 text-orange-400'>Bienvenido a <img src="https://res.cloudinary.com/dzemdgvqo/image/upload/v1699554059/resources/lc9kwvzsioeizhgcpyzn.png" alt="Logo" /></h1>
                     <p className='text-xl mb-8'>Donde tu opinión cuenta</p>
